@@ -1,0 +1,1 @@
+implementation 'mysql:mysql-connector-java:VERSION_NUMBER'
